@@ -1,4 +1,3 @@
-
 <div align="center">
    <h1 align="center">Dokploy</h1>
    <div>
@@ -33,6 +32,8 @@ Dokploy include multiples features to make your life easier.
 
 
 ## 🚀 Getting Started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhehehai%2Fdokploy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhehehai%2Fdokploy?ref=badge_shield)
+
 
 To get started run the following command in a VPS:
 
@@ -92,3 +93,7 @@ https://opencollective.com/dokploy
 [English](README.md) | [中文](README-zh.md) | [Deutsch](README-de.md) | [Русский Язык](README-ru.md)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhehehai%2Fdokploy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhehehai%2Fdokploy?ref=badge_large)
